@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DAN-MIKE
-- 👀 I’m interested in become a very skilled developer
+- 👀 I’m interested in becoming a very skilled developer
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any project invoing codes
 - 📫 How to reach me whatsapp (08076973659)
